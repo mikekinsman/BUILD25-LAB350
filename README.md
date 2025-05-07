@@ -1,3 +1,7 @@
+<p align="center">
+<img src="img/banner.jpg" alt="decorative banner" width="1200"/>
+</p>
+
 # LAB350: Creating pixel-perfect mobile apps with Native Authentication
 
 > [!IMPORTANT]  
@@ -16,3 +20,9 @@ Discover how Microsoft Entra's native authentication allows you to have full con
 - Sign up a user by using email one-time passcode or username (email) and password.
 - Collect user attributes during sign-up.
 - Handle sign-up errors.
+
+## Session Resources 
+
+| Resources          | Links                             | Description        |
+|:-------------------|:----------------------------------|:-------------------|
+| Build session page | https://build.microsoft.com/sessions/LAB350 | Event session page with downloadable recording, slides, resources, and speaker bio |
