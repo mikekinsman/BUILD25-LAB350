@@ -26,3 +26,4 @@ Discover how Microsoft Entra's native authentication allows you to have full con
 | Resources          | Links                             | Description        |
 |:-------------------|:----------------------------------|:-------------------|
 | Build session page | https://build.microsoft.com/sessions/LAB350 | Event session page with downloadable recording, slides, resources, and speaker bio |
+|Microsoft Learn|https://aka.ms/build25/collection/AppswithNativeAuthentication|Official Collection or Plan with skilling resources to learn at your own pace|
